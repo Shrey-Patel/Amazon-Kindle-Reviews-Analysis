@@ -24,10 +24,6 @@ Decriptions for Optional Arguments:
 --infile INFILE 				Input .csv file
 
 
-Instructions for running the code:
+To run the code:
 
-1. Download the Sentiment_Analysis folder.
-
-2. Open terminal
-
-3. Make sure you are in the Sentiment_Analysis folder, and run this command: python project.py [--optional_arguments] 
+python project.py [--optional_arguments] 
